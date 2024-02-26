@@ -12,9 +12,22 @@
 
 ### Descrição do projeto
 <p align="justify">
- Projeto em desenvolvimento para disciplina de Engenharia de Software II. A ideia surgiu com a intenção de auxliar professores independentes a conquistarem mais alunos e organizarem os horários disponíveis de maneira eficiente. Criando um espaço exclusivo onde os pessoas que buscam por aulas em qualquer área desejada possam se conectar mais facilmente com os profissionais, encontrando assim, o auxílio necessário Também, os tutores sendo encontrados rapidamente com a aplicação, garantem mais experiência para sua carreira. Reviwes de alunos em suas páginas fazem com que seu trabalho tenha referências, dando a possíveis alunos informações adicionais para tomar a decisão de agendar uma aula, tendo em vista que além do perfil cadastrado, teve a nota de outros como base. Além das ferramentas que a aplicação proporciona para gerenciar suas sessões, alunos, financeiro e rotina. 
+Projeto em desenvolvimento para disciplina de Engenharia de Software II da FATEC. 
 </p>
 
+<p align="justify">
+A ideia surgiu com a intenção de auxliar professores independentes a divulgarem seus serviços e sua disponibilidade em uma plataforma individual, afim de ampliarem seus clientes e organizarem os horários disponíveis de maneira eficiente. Criando um espaço exclusivo para cada profissional, onde possíveis alunos poderão consultar os serviços oferecidos por aquele profissional em específico, sua disponibilidade e o valor cobrado pelo serviço escolhido. 
+</p>
+
+<p align="justify">
+Além da facilidade de acessar os serviços oferecidos pelo profissional, a aplicação disponibilizará uma área para os alunos contendo: 
+</p>
+
+<hr>
+- `Perfil cadastrado`, através do perfil cadastrado na plataforma, os alunos poderão ter acesso a várias funcionalidades, como agendar, alterar e excluir agendamentos futuros.
+- `Reviews`, os alunos poderão comentar a respeito do atendimento executado pelo profissional, oferecendo referências para possíveis novos alunos;
+- `Financeiro`, checar a situação do pagamento dos serviços contratados;
+ 
 <hr>
 
 ## Usuários
