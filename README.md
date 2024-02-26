@@ -18,3 +18,6 @@
 <hr>
 
 ## Usuários
+<p align="justify">
+Alguns dos possíveis usuários que poderiam se beneficiar dessa plataforma são os `professores particulares`, que oferecem aulas individualizadas e adaptam o ensino de acordo com as necessidades e o ritmo de aprendizado de cada aluno; os tutores de idiomas, que ajudam os alunos a desenvolverem suas habilidades linguísticas em um idioma específico, adaptando as lições de acordo com as necessidades e níveis de proficiência de cada aluno; os tutores de habilidades, que abrangem uma variedade de áreas, desde habilidades acadêmicas até instrumentos musicais; os mentores acadêmicos, que guiam estudantes em projetos educacionais mais amplos, oferecendo suporte contínuo e orientação em seus campos de especialização, e muito mais.
+</p>
