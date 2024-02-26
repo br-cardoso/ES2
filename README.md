@@ -11,6 +11,8 @@
 <hr>
 
 ## Descrição do projeto
+<p align="justify">
+ Projeto em desenvolvimento para disciplina de Engenharia de Software II. A ideia surgiu com a intenção de auxliar professores independentes a conquistarem mais alunos e organizarem os horários disponíveis de maneira eficiente.
+</p>
 
-
-## Descrição do projeto
+## Usuários
