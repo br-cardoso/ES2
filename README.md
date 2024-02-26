@@ -23,7 +23,7 @@ A ideia surgiu com a intenção de auxliar professores independentes a divulgare
 Além da facilidade de acessar os serviços oferecidos pelo profissional, a aplicação disponibilizará uma área para os alunos contendo: 
 </p>
 
-<hr>
+
 - `Perfil cadastrado`, através do perfil cadastrado na plataforma, os alunos poderão ter acesso a várias funcionalidades, como agendar, alterar e excluir agendamentos futuros.
 - `Reviews`, os alunos poderão comentar a respeito do atendimento executado pelo profissional, oferecendo referências para possíveis novos alunos;
 - `Financeiro`, checar a situação do pagamento dos serviços contratados;
