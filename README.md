@@ -45,7 +45,8 @@ Alguns dos possíveis usuários que poderiam se beneficiar dessa plataforma são
 - `Gerenciar agenda do professor:` traz facilidade de gerir sua agenda, além de exibir horários disponíveis e ocupados, é possível realizar alterações nos horários que serão exibidos para os alunos selecionarem.
 - `Agenda do aluno:` visualização clara das aulas que realizará no período selecionado, possibilitando programar notificações de aulas, evitando esquecimentos e cancelamentos indesejados.
 - `Controle Financeiro do professor:` os alunos devem realizar o pagamento diretamente pela plataforma ao agendarem uma aula, garantindo que receberá pela execução de ensinar. 
-- `Controle Financeiro do aluno:` além da segurança para o professor, o aluno também estará seguro de que se a aula não ocorrer ou quaisquer outros problemas, poderá solicitar um reembolso na plataforma. 
+- `Controle Financeiro do aluno:` além da segurança para o professor, o aluno também estará seguro de que se a aula não ocorrer ou quaisquer outros problemas, poderá solicitar um reembolso na plataforma.
+- `Reviews dos professores:` alunos que ja agendaram aulas na plataforma podem deixar reviwes das aulas, garantindo que sua experiência com o professor seja compartilhada com seus futuros alunos, dando a estes referências e mais informações. Assim, perfis mais próximos do ideal serão selecinados pelo aluno, diminuindo a possibilidade de aulas frustradas e desinteressantes. 
 
 
   
