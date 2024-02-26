@@ -1,4 +1,6 @@
-<h1 align="center"> Projeto Engenharia de Software II
+<h1 align="center"> Aplicação Para Professores Independentes
+
+<hr>
 
 ## Autores 
 :heavy_check_mark: `Alicia Munhoz`
