@@ -16,7 +16,7 @@ Projeto em desenvolvimento para disciplina de Engenharia de Software II da FATEC
 </p>
 
 <p align="justify">
-A ideia surgiu com a intenção de auxliar professores independentes a divulgarem seus serviços e sua disponibilidade em uma plataforma individual, afim de ampliarem seus clientes e organizarem os horários disponíveis de maneira eficiente. Criando um espaço exclusivo para cada profissional, onde possíveis alunos poderão consultar os serviços oferecidos por aquele profissional em específico, sua disponibilidade e o valor cobrado pelo serviço escolhido. 
+A ideia surgiu com a intenção de auxiliar professores independentes a divulgarem seus serviços e sua disponibilidade em uma plataforma individual, com o objetivo de ampliarem seus clientes e organizarem os horários disponíveis de maneira eficiente. Criando um espaço exclusivo para cada profissional, onde possíveis alunos poderão consultar os serviços oferecidos por aquele profissional em específico, sua disponibilidade e o valor cobrado pelo serviço escolhido. 
 </p>
 
 <p align="justify">
