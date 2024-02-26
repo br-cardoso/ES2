@@ -38,3 +38,14 @@ Alguns dos possíveis usuários que poderiam se beneficiar dessa plataforma são
 - `Tutores de idiomas`, que ajudam os alunos a desenvolverem suas habilidades linguísticas em um idioma específico, adaptando as lições de acordo com as necessidades e níveis de proficiência de cada aluno; 
 - `Tutores de habilidades`, que abrangem uma variedade de áreas, desde habilidades acadêmicas até instrumentos musicais; 
 - `Mentores acadêmicos`, que guiam estudantes em projetos educacionais mais amplos, oferecendo suporte contínuo e orientação em seus campos de especialização.
+
+  ## Recursos Oferecidos
+- `Gerenciar Perfil do professor:`cadastrar seus conhecimentos, certificados, especializações e experiências, dados e realizar verificação do perfil na plataforma trará ao aluno muito mais segurança em contratar os serviços.
+- `Gerenciar Perfil do aluno:` deixar registrado seus interesses, áreas de estudo e preferências dará ao professor maiores especificações para que possa elaborar melhor uma aula e dar enfoque no que o aluno deseja aprender.
+- `Gerenciar agenda do professor:` traz facilidade de gerir sua agenda, além de exibir horários disponíveis e ocupados, é possível realizar alterações nos horários que serão exibidos para os alunos selecionarem.
+- `Agenda do aluno:` visualização clara das aulas que realizará no período selecionado, possibilitando programar notificações de aulas, evitando esquecimentos e cancelamentos indesejados.
+- `Controle Financeiro do professor:` os alunos devem realizar o pagamento diretamente pela plataforma ao agendarem uma aula, garantindo que receberá pela execução de ensinar. 
+- `Controle Financeiro do aluno:` além da segurança para o professor, o aluno também estará seguro de que se a aula não ocorrer ou quaisquer outros problemas, poderá solicitar um reembolso na plataforma. 
+
+
+  
