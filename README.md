@@ -2,14 +2,15 @@
 
 <hr>
 
-<p align="center">
- <a href="#Autores">Autores</a> •
- <a href="#Descrição-do-projeto">Descrição do projeto</a> • 
- <a href="#Recursos-do-Professor">Recursos do Professor</a> • 
- <a href="#Recursos-do-Aluno">Recursos do Aluno</a> • 
- <a href="https://github.com/br-cardoso/ES2/blob/main/docs/modelo-de-negocio.md">Modelo de Negócio</a> • 
+<h2 align="center">
+ <a href="#Autores">Autores</a>  | 
+ <a href="#Descrição-do-projeto">Descrição do projeto</a> | 
+ <a href="#Recursos-do-Professor">Recursos do Professor</a> | 
+ <a href="#Recursos-do-Aluno">Recursos do Aluno</a> 
+<br>
+ <a href="https://github.com/br-cardoso/ES2/blob/main/docs/modelo-de-negocio.md">Modelo de Negócio</a> | 
  <a href="https://github.com/br-cardoso/ES2/blob/main/docs/tecnologias-utilizadas.md">Tecnologias Utilizadas</a>
-</p>
+</h2>
 
 
 
