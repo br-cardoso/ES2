@@ -10,7 +10,7 @@
 
 [Recursos do Aluno](#Recursos-do-Aluno)
 
-[Modelo de Negocio](#modelo-de-negocio.md)
+[Modelo de Negocio](https://github.com/br-cardoso/ES2/blob/main/docs/modelo-de-negocio.md)
 
 
 
