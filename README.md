@@ -10,9 +10,11 @@
 
 [Recursos do Aluno](#Recursos-do-Aluno)
 
+[Modelo de Negocio](#modelo-de-negocio.md)
 
 
- ### Autores 
+
+ ## Autores 
  
 :heavy_check_mark: `Alicia Munhoz`
 :heavy_check_mark: `Ana Mel Bossolan`
@@ -21,7 +23,7 @@
 
 <hr>
 
-### Descrição do projeto
+## Descrição do projeto
 <p align="justify">
 Projeto em desenvolvimento para disciplina de Engenharia de Software II da FATEC. 
 </p>
