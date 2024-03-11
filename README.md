@@ -12,6 +12,8 @@
 
 ### [Modelo de Negocio](https://github.com/br-cardoso/ES2/blob/main/docs/modelo-de-negocio.md)
 
+### [Tecnologias Utilizadas](https://github.com/br-cardoso/ES2/blob/main/docs/tecnologias-utilizadas.md)
+
 
 
  ## Autores 
