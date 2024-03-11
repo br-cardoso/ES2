@@ -2,17 +2,14 @@
 
 <hr>
 
-### [Autores](#Autores)
-
-### [Descrição do projeto](#Descrição-do-projeto)
-
-### [Recursos do Professor](#Recursos-do-Professor)
-
-### [Recursos do Aluno](#Recursos-do-Aluno)
-
-### [Modelo de Negocio](https://github.com/br-cardoso/ES2/blob/main/docs/modelo-de-negocio.md)
-
-### [Tecnologias Utilizadas](https://github.com/br-cardoso/ES2/blob/main/docs/tecnologias-utilizadas.md)
+<p align="center">
+ <a href="#Autores">Autores</a> •
+ <a href="#Descrição-do-projeto">Descrição do projeto</a> • 
+ <a href="#Recursos-do-Professor">Recursos do Professor</a> • 
+ <a href="#Recursos-do-Aluno">Recursos do Aluno</a> • 
+ <a href="https://github.com/br-cardoso/ES2/blob/main/docs/modelo-de-negocio.md">Modelo de Negócio</a> • 
+ <a href="https://github.com/br-cardoso/ES2/blob/main/docs/tecnologias-utilizadas.md">Tecnologias Utilizadas</a>
+</p>
 
 
 
