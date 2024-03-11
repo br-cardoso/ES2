@@ -1,5 +1,11 @@
 <h1 align="center"> Aplicação Para Professores Independentes
-<hr>
+
+[Autores](#Autores)
+
+[Descrição do projeto](#Descrição-do-projeto)
+:heavy_check_mark: `Recursos do Professor`
+:heavy_check_mark: `Recursos do Aluno`
+
 
  ### Autores 
  
