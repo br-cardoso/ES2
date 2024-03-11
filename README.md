@@ -2,15 +2,15 @@
 
 <hr>
 
-[Autores](#Autores)
+### [Autores](#Autores)
 
-[Descrição do projeto](#Descrição-do-projeto)
+### [Descrição do projeto](#Descrição-do-projeto)
 
-[Recursos do Professor](#Recursos-do-Professor)
+### [Recursos do Professor](#Recursos-do-Professor)
 
-[Recursos do Aluno](#Recursos-do-Aluno)
+### [Recursos do Aluno](#Recursos-do-Aluno)
 
-[Modelo de Negocio](https://github.com/br-cardoso/ES2/blob/main/docs/modelo-de-negocio.md)
+### [Modelo de Negocio](https://github.com/br-cardoso/ES2/blob/main/docs/modelo-de-negocio.md)
 
 
 
