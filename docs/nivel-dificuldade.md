@@ -1,7 +1,7 @@
 # Nível de Dificuldade do Sistema
 
 ## Tabelas
-O sistema precisa por volta de xx tabelas, referentes aos assuntos x, y e z.
+O sistema precisa por volta de 8 tabelas, referentes aos assuntos Cliente, Professor, Serviços, Agenda e z.
 
 ## Dores (Casos de Uso)
 As principais dores de nossos usuários para a criação desse sistema são
