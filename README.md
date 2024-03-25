@@ -9,7 +9,9 @@
  <a href="#Recursos-do-Aluno">Recursos do Aluno</a> 
 <br>
  <a href="https://github.com/br-cardoso/ES2/blob/main/docs/modelo-de-negocio.md">Modelo de Negócio</a> | 
- <a href="https://github.com/br-cardoso/ES2/blob/main/docs/tecnologias-utilizadas.md">Tecnologias Utilizadas</a>
+ <a href="https://github.com/br-cardoso/ES2/blob/main/docs/tecnologias-utilizadas.md">Tecnologias Utilizadas</a> | 
+ <a href="https://github.com/br-cardoso/ES2/blob/main/docs/casos-de-uso.md">Casos de uso</a> |
+ <a href="https://github.com/br-cardoso/ES2/blob/main/docs/tela-mais-importante.md">Tela mais importnate</a>
 </h2>
 
 
