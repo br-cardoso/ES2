@@ -52,5 +52,10 @@ Assim, pessoas que estejam buscando por aulas e professores que sejam capazes de
 - `Controle Financeiro do aluno: ` além da segurança para o professor, o aluno também estará seguro de que se a aula não ocorrer ou quaisquer outros problemas, poderá solicitar um reembolso na plataforma. 
 - `Reviews dos professores:` alunos que já agendaram aulas na plataforma podem deixar reviews das aulas, garantindo que sua experiência com o professor seja compartilhada com seus futuros alunos, dando a estes referências e mais informações. Assim, perfis mais próximos do ideal serão selecionados pelo aluno, diminuindo a possibilidade de aulas frustradas e desinteressantes.
 
+## Diagramas
+- `Casos de uso`
+
+![image](https://github.com/br-cardoso/ES2/assets/105823452/600231bb-a452-4849-80a2-fc28884a3ae3)
+
 
   
