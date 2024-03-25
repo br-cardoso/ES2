@@ -1,0 +1,34 @@
+@startuml "use-cases"
+left to right direction
+actor Admin as a
+actor OperatorAluno as s
+actor OperatorProfessor as p
+package Schedule{
+	use case "Realizar cadastro" as UC1
+	use case "Criar perfil" as UC2
+	use case "Selecionar ou criar serviços" as UC3
+	use case "Disponibilizar agenda" as UC4
+	use case "Organizar cadastro de alunos e professores" as UC5
+	use case "Organizar pagamento de serviços pelos alunos" as UC6
+	use case "Repassar valor para os professores" as UC7
+	use case "Criar perfil" as UC8
+	use case "Selecionar serviço" as UC9
+	use case "Selecionar horário" as UC10
+	use case "Pagar serviço" as UC11
+}
+p <|-right- s
+p --> UC1
+p --> UC2
+p --> UC3
+p --> UC4
+a --> UC5
+a --> UC6
+a --> UC7
+s --> UC8
+s --> UC9
+s --> UC10
+s --> UC11
+(UC5).up.> (UC6) : <<includes>>
+(UC9).up.> (UC10) : <<includes>>
+(UC10).up.> (UC11) : <<includes>>
+@enduml
