@@ -41,16 +41,16 @@ Assim, pessoas que estejam buscando por aulas e professores que sejam capazes de
 <hr>
 
 ## Recursos do professor
-- `Perfil exclusivo:` Alunos podem visitar apenas sua página quando acessam seu link, não é possível buscar por outros profissionais dentro da plataforma, apenas a pesquisa do navegador exibirá resultados diferentes. Quando o link direto do professor for acessado, não terá novos professores indicados ao aluno, dando mais engajamento e diminuindo a concorrência.
-- `Gerenciar Perfil do professor: `Cadastrar seus conhecimentos, certificados, especializações e experiências, dados e realizar verificação do perfil na plataforma trará ao aluno muito mais segurança em contratar os serviços.
-- `Gerenciar agenda do professor: ` Traz facilidade de gerir sua agenda, além de exibir horários disponíveis e ocupados, é possível realizar alterações nos horários que serão exibidos para os alunos selecionarem.
-- `Controle Financeiro do professor: ` Os alunos devem realizar o pagamento diretamente pela plataforma ao agendarem uma aula, garantindo que receberá pela execução de ensinar. 
+- `Perfil exclusivo:` alunos podem visitar apenas sua página quando acessam seu link, não é possível buscar por outros profissionais dentro da plataforma, apenas a pesquisa do navegador exibirá resultados diferentes. Quando o link direto do professor for acessado, não terá novos professores indicados ao aluno, dando mais engajamento e diminuindo a concorrência.
+- `Gerenciar Perfil do professor: `cadastrar seus conhecimentos, certificados, especializações e experiências, dados e realizar verificação do perfil na plataforma trará ao aluno muito mais segurança em contratar os serviços.
+- `Gerenciar agenda do professor: ` traz facilidade de gerir sua agenda, além de exibir horários disponíveis e ocupados, é possível realizar alterações nos horários que serão exibidos para os alunos selecionarem.
+- `Controle Financeiro do professor: ` os alunos devem realizar o pagamento diretamente pela plataforma ao agendarem uma aula, garantindo que receberá pela execução de ensinar. 
 
 ## Recursos do aluno: 
-- `Gerenciar Perfil do aluno: ` Deixar registrado seus interesses, áreas de estudo e preferências dará ao professor maiores especificações para que possa elaborar melhor uma aula e dar enfoque no que o aluno deseja aprender.
-- `Agenda do aluno: ` Visualização clara das aulas que realizará no período selecionado, possibilitando programar notificações de aulas, evitando esquecimentos e cancelamentos indesejados.
-- `Controle Financeiro do aluno: ` Além da segurança para o professor, o aluno também estará seguro de que se a aula não ocorrer ou quaisquer outros problemas, poderá solicitar um reembolso na plataforma. 
-- `Reviews dos professores:` Alunos que já agendaram aulas na plataforma podem deixar reviews das aulas, garantindo que sua experiência com o professor seja compartilhada com seus futuros alunos, dando a estes referências e mais informações. Assim, perfis mais próximos do ideal serão selecionados pelo aluno, diminuindo a possibilidade de aulas frustradas e desinteressantes.
+- `Gerenciar Perfil do aluno: ` deixar registrado seus interesses, áreas de estudo e preferências dará ao professor maiores especificações para que possa elaborar melhor uma aula e dar enfoque no que o aluno deseja aprender.
+- `Agenda do aluno: ` visualização clara das aulas que realizará no período selecionado, possibilitando programar notificações de aulas, evitando esquecimentos e cancelamentos indesejados.
+- `Controle Financeiro do aluno: ` além da segurança para o professor, o aluno também estará seguro de que se a aula não ocorrer ou quaisquer outros problemas, poderá solicitar um reembolso na plataforma. 
+- `Reviews dos professores:` alunos que já agendaram aulas na plataforma podem deixar reviews das aulas, garantindo que sua experiência com o professor seja compartilhada com seus futuros alunos, dando a estes referências e mais informações. Assim, perfis mais próximos do ideal serão selecionados pelo aluno, diminuindo a possibilidade de aulas frustradas e desinteressantes.
 
 ## Diagramas
 - `Casos de uso`
