@@ -78,7 +78,4 @@ s --> UC33
 s --> UC34
 s --> UC35
 s --> UC36
-(UC5).up.> (UC6) : <<includes>>
-(UC9).up.> (UC10) : <<includes>>
-(UC10).up.> (UC11) : <<includes>>
 @enduml
