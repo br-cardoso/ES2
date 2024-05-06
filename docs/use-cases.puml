@@ -6,28 +6,78 @@ actor OperatorProfessor as p
 package Schedule{
 	use case "Realizar cadastro" as UC1
 	use case "Criar perfil" as UC2
-	use case "Selecionar ou criar serviços" as UC3
-	use case "Disponibilizar agenda" as UC4
-	use case "Organizar cadastro de alunos e professores" as UC5
-	use case "Organizar pagamento de serviços pelos alunos" as UC6
-	use case "Repassar valor para os professores" as UC7
-	use case "Criar perfil" as UC8
-	use case "Selecionar serviço" as UC9
-	use case "Selecionar horário" as UC10
-	use case "Pagar serviço" as UC11
+	use case "Disponibilizar serviços" as UC3
+	use case "Editar/criar serviços" as UC4
+	use case "Visualizar aulas solicitadas" as UC5
+	use case "Confirmar/recusar aulas solicitadas" as UC6
+	use case "Visualizar agenda" as UC7
+	use case "Editar agenda" as UC8
+	use case "Personalizar horarios as UC9
+	use case "Visualizar/editar perfil" as UC10
+	use case "Visualizar historico de aulas" as UC11
+	use case "Confirmar historico de aulas" as UC12
+	use case "Visualizar reviews" as UC13
+	use case "Visualizar/pagar mensalidade" as UC14
+	use case "Visualizar/editar plano" as UC15
+	use case "Visualizar pagina inicial" as UC16
+	use case "Realizar cadastro" as UC17
+	use case "Visualizar planos" as UC18
+	use case "Acessar/organizar cadastro de alunos e professores" as UC19
+	use case "Organizar pagamento do serviço pelos alunos" as UC20
+	use case "Repassar valor para os professores" as UC21
+	use case "Acessar perfil do professor" as UC22
+	use case "Selecionar serviço" as UC23
+	use case "Criar perfil" as UC24
+	use case "Confirmar serviço/horario" as UC25
+	use case "Pagar serviço" as UC26
+	use case "Visualizar aulas do dia" as UC27
+	use case "Dar review da aula" as UC28
+	use case "Confirmar/não confirmar aula" as UC29
+	use case "Relatar problemas" as UC30
+	use case "Acessar lista de aulas" as UC31
+	use case "Acessar agenda" as UC32
+	use case "Editar perfil" as UC33
+	use case "Visualizar historico de aulas" as UC34
+	use case "Confirmar historico de aulas" as UC35
+	use case "Visualiza historico de reviews" as UC36
 }
 p <|-right- s
 p --> UC1
 p --> UC2
 p --> UC3
 p --> UC4
-a --> UC5
-a --> UC6
-a --> UC7
-s --> UC8
-s --> UC9
-s --> UC10
-s --> UC11
+p --> UC5
+p --> UC6
+p --> UC7
+p --> UC8
+p --> UC9
+p --> UC10
+p --> UC11
+p --> UC12
+p --> UC13
+p --> UC14
+p --> UC15
+a --> UC16
+a --> UC17
+a --> UC18
+a --> UC19
+a --> UC20
+a --> UC21
+s --> UC22
+s --> UC23
+s --> UC24
+s --> UC25
+s --> UC26
+s --> UC27
+s --> UC28
+s --> UC29
+s --> UC30
+s --> UC31
+s --> UC32
+s --> UC33
+s --> UC34
+s --> UC35
+s --> UC36
 (UC5).up.> (UC6) : <<includes>>
 (UC9).up.> (UC10) : <<includes>>
 (UC10).up.> (UC11) : <<includes>>
