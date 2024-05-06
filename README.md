@@ -55,7 +55,7 @@ Assim, pessoas que estejam buscando por aulas e professores que sejam capazes de
 ## Diagramas
 - `Casos de uso`
 
-![image](https://ibb.co/FwFhBXz)
+<img src="[URL_da_Imagem](https://ibb.co/FwFhBXz)" alt="Casos de Uso">
 
 
   
