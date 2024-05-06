@@ -13,7 +13,7 @@
  <a href="#Diagramas">Casos de uso</a> |
  <a href="https://www.figma.com/proto/zCfjhBR0iUMg30WQnlwv5c/ES2?type=design&node-id=1-17&t=qVG12xEi6xZM3Gc8-0&scaling=scale-down&page-id=0%3A1">Tela mais importante</a>
  |
- <a href="[https://www.figma.com/proto/zCfjhBR0iUMg30WQnlwv5c/ES2?type=design&node-id=1-17&t=qVG12xEi6xZM3Gc8-0&scaling=scale-down&page-id=0%3A](https://www.figma.com/proto/zCfjhBR0iUMg30WQnlwv5c/ES2?type=design&node-id=217-380&t=N7dFkT0BuvJrcppg-0&scaling=scale-down&page-id=0%3A1)1">Protótipo não funcional</a>
+ <a href="https://www.figma.com/proto/zCfjhBR0iUMg30WQnlwv5c/ES2?type=design&node-id=217-380&t=N7dFkT0BuvJrcppg-0&scaling=scale-down&page-id=0%3A1">Protótipo não funcional</a>
 </h2>
 
 
