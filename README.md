@@ -11,7 +11,7 @@
  <a href="https://github.com/br-cardoso/ES2/blob/main/docs/modelo-de-negocio.md">Modelo de Negócio</a> | 
  <a href="https://github.com/br-cardoso/ES2/blob/main/docs/tecnologias-utilizadas.md">Tecnologias Utilizadas</a> | 
  <a href="#Diagramas">Casos de uso</a> |
- <a href="https://www.figma.com/proto/zCfjhBR0iUMg30WQnlwv5c/ES2?type=design&node-id=1-17&t=qVG12xEi6xZM3Gc8-0&scaling=scale-down&page-id=0%3A1">Tela mais importante</a>
+ <a href="https://www.figma.com/proto/zCfjhBR0iUMg30WQnlwv5c/ES2?node-id=217-380&t=XZmmAeVH6fCCU3WJ-1&scaling=scale-down&page-id=0%3A1">Protótipo não funcional</a>
  |
  <a href="https://www.canva.com/design/DAGDziTinek/TLhUSMzX8CwV6x_6HYUGUw/edit">Apresentação</a>
 </h2>
