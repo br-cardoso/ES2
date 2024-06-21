@@ -14,7 +14,7 @@
  <a href="https://www.figma.com/proto/zCfjhBR0iUMg30WQnlwv5c/ES2?node-id=217-380&t=XZmmAeVH6fCCU3WJ-1&scaling=scale-down&page-id=0%3A1">Protótipo não funcional</a>
  | <a href="https://www.canva.com/design/DAGDziTinek/TLhUSMzX8CwV6x_6HYUGUw/edit">Apresentação</a> | 
     <a href="https://github.com/br-cardoso/ES2/blob/main/docs/modelo%20ER.png">Modelo E/R</a> |
- <a href="https://github.com/br-cardoso/ES2/blob/main/docs/modelo%20ER.png">Modelo Conceitual</a>
+ <a href="https://github.com/br-cardoso/ES2/blob/main/docs/Modelo_Conceitual.jpg">Modelo Conceitual</a>
 </h2>
 
 
