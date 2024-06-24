@@ -65,6 +65,6 @@ Assim, pessoas que estejam buscando por aulas e professores que sejam capazes de
 
 - `Modelo E/R`
   
-![Modelo E/R](https://github.com/br-cardoso/ES2/blob/main/docs/modelo%20ER.png)
+![Modelo E/R](https://github.com/br-cardoso/ES2/blob/main/docs/ModeloER.png)
 
   
