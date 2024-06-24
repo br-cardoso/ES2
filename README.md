@@ -13,9 +13,7 @@
  <a href="https://github.com/br-cardoso/ES2/blob/main/docs/tecnologias-utilizadas.md">Tecnologias Utilizadas</a> | 
  <a href="#Diagramas">Casos de uso</a> |
  <a href="https://www.figma.com/proto/zCfjhBR0iUMg30WQnlwv5c/ES2?node-id=217-380&t=XZmmAeVH6fCCU3WJ-1&scaling=scale-down&page-id=0%3A1">Protótipo não funcional</a>
- | <a href="https://www.canva.com/design/DAGDziTinek/TLhUSMzX8CwV6x_6HYUGUw/edit">Apresentação</a> | 
-    <a href="https://github.com/br-cardoso/ES2/blob/main/docs/modelo%20ER.png">Modelo E/R</a> |
- <a href="https://github.com/br-cardoso/ES2/blob/main/docs/Diagrama%20modelo%20conceitual.png">Modelo Conceitual</a> |  <a href="https://www.figma.com/proto/pXTHLcRw2fMHavdoiiM19G/ES-prot-AF?node-id=1-308&t=fN4UU1IxtuHIvGAQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A308&show-proto-sidebar=1">Jornada do professor</a> |  <a href="https://www.figma.com/proto/pXTHLcRw2fMHavdoiiM19G/ES-prot-AF?node-id=11-59&t=fN4UU1IxtuHIvGAQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A59&show-proto-sidebar=1">Jornada do aluno</a> |  <a href="https://www.figma.com/proto/pXTHLcRw2fMHavdoiiM19G/ES-prot-AF?node-id=130-161&t=fN4UU1IxtuHIvGAQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=130%3A161&show-proto-sidebar=1">Jornada do Administrador </a>
+ | <a href="#Diagramas">Diagramas</a> |  <a href="https://www.figma.com/proto/pXTHLcRw2fMHavdoiiM19G/ES-prot-AF?node-id=1-308&t=fN4UU1IxtuHIvGAQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A308&show-proto-sidebar=1">Jornada do professor</a> |  <a href="https://www.figma.com/proto/pXTHLcRw2fMHavdoiiM19G/ES-prot-AF?node-id=11-59&t=fN4UU1IxtuHIvGAQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A59&show-proto-sidebar=1">Jornada do aluno</a> |  <a href="https://www.figma.com/proto/pXTHLcRw2fMHavdoiiM19G/ES-prot-AF?node-id=130-161&t=fN4UU1IxtuHIvGAQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=130%3A161&show-proto-sidebar=1">Jornada do Administrador </a>
 </h2>
 
 
@@ -60,6 +58,7 @@ Assim, pessoas que estejam buscando por aulas e professores que sejam capazes de
 - `Casos de uso`
 
 ![Casos de Uso](https://github.com/br-cardoso/ES2/blob/main/docs/casos%20de%20uso.jpeg)
-
+![Modelo Conceitual](https://github.com/br-cardoso/ES2/blob/main/docs/Diagrama%20modelo%20conceitual.png)
+![Modelo E/R](https://github.com/br-cardoso/ES2/blob/main/docs/modelo%20ER.png)
 
   
