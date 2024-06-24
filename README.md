@@ -58,7 +58,13 @@ Assim, pessoas que estejam buscando por aulas e professores que sejam capazes de
 - `Casos de uso`
 
 ![Casos de Uso](https://github.com/br-cardoso/ES2/blob/main/docs/casos%20de%20uso.jpeg)
+
+- `Modelo Conceitual`
+  
 ![Modelo Conceitual](https://github.com/br-cardoso/ES2/blob/main/docs/Diagrama%20modelo%20conceitual.png)
+
+- `Modelo E/R`
+  
 ![Modelo E/R](https://github.com/br-cardoso/ES2/blob/main/docs/modelo%20ER.png)
 
   
