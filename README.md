@@ -61,7 +61,7 @@ Assim, pessoas que estejam buscando por aulas e professores que sejam capazes de
 
 - `Modelo Conceitual`
   
-![Modelo Conceitual](https://github.com/br-cardoso/ES2/blob/main/docs/Diagrama%20modelo%20conceitual.png)
+![Modelo Conceitual](https://github.com/br-cardoso/ES2/blob/main/docs/Diagrama%20modelo%20conceitual.drawio)
 
 - `Modelo E/R`
   
